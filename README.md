@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Musimbi Marcrine
-- 👀 I’m interested in Backend Engineering (Flask, NodeJS, Laravel)
-- 🌱 Certified AWS cloud practitioner
+- 👀 I’m interested in Backend Engineering (Flask, NodeJS, Django REST, Laravel, Web Servers)
+- 🌱 2X AWS Certified
 - 💞️ I’m looking to collaborate on Backend services and cloud app deployments
 - 📫 How to reach me on linked in https://www.linkedin.com/in/marcrine-musimbi-76753b1b0/
 
